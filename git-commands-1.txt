@@ -1,0 +1,9 @@
+git status -> prints the status of the git repository
+git init -> initializes the git repository
+git diff -> difference between the version
+git log
+git clone
+git commit
+git config
+git push
+git remote
