@@ -1,7 +1,7 @@
 git status -> prints the status of the git repository
 git init -> initializes the git repository
 git diff -> difference between the version
-git log
+git log -> logs
 git clone
 git commit
 git config
