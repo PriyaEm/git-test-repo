@@ -3,7 +3,7 @@ git init -> initializes the git repository
 git diff -> difference between the version
 git log -> logs
 git clone
-git commit
+git commit -> comment
 git config
 git push
 git remote
